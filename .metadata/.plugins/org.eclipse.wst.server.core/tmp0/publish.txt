@@ -1,0 +1,12 @@
+#Tomcat publish data
+#Sun Apr 25 02:48:27 IST 2021
+org.eclipse.jst.j2ee.server\:/binary\:/Users/savanpatel/.m2/repository/org/apache/tomcat/tomcat-jasper/9.0.12/tomcat-jasper-9.0.12.jar=/Users/savanpatel/eclipse-workspace/apache-tomcat-8.5.65/wtpwebapps/SpringMVCCRUDSimple/WEB-INF/lib/tomcat-jasper-9.0.12.jar
+org.eclipse.jst.j2ee.server\:/binary\:/Users/savanpatel/.m2/repository/org/springframework/spring-web/5.1.1.RELEASE/spring-web-5.1.1.RELEASE.jar=/Users/savanpatel/eclipse-workspace/apache-tomcat-8.5.65/wtpwebapps/SpringMVCCRUDSimple/WEB-INF/lib/spring-web-5.1.1.RELEASE.jar
+org.eclipse.jst.jee.server\:javaLabManual=/Users/savanpatel/eclipse-workspace/apache-tomcat-8.5.65/wtpwebapps/javaLabManual
+org.eclipse.jst.jee.server\:sessionCart=/Users/savanpatel/eclipse-workspace/apache-tomcat-8.5.65/wtpwebapps/sessionCart
+org.eclipse.jst.jee.server\:practical05=/Users/savanpatel/eclipse-workspace/apache-tomcat-8.5.65/wtpwebapps/practical05
+org.eclipse.jst.jee.server\:practical08=/Users/savanpatel/eclipse-workspace/apache-tomcat-8.5.65/wtpwebapps/practical08
+org.eclipse.jst.j2ee.server\:SpringMVCCRUDSimple=/Users/savanpatel/eclipse-workspace/apache-tomcat-8.5.65/wtpwebapps/SpringMVCCRUDSimple
+org.eclipse.jst.jee.server\:practical09=/Users/savanpatel/eclipse-workspace/apache-tomcat-8.5.65/wtpwebapps/practical09
+org.eclipse.jst.jee.server\:practical06=/Users/savanpatel/eclipse-workspace/apache-tomcat-8.5.65/wtpwebapps/practical06
+org.eclipse.jst.jee.server\:practical07=/Users/savanpatel/eclipse-workspace/apache-tomcat-8.5.65/wtpwebapps/practical07
